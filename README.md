@@ -1,18 +1,6 @@
-<p class="animated-text" align="center">Unity | C# | Python | Yapay Zeka</p>
-
-<style>
-  .animated-text {
-    font-size: 24px;
-    font-weight: bold;
-    animation: fadeInOut 3s infinite;
-  }
-
-  @keyframes fadeInOut {
-    0% { opacity: 0; transform: translateY(-5px); }
-    50% { opacity: 1; transform: translateY(0); }
-    100% { opacity: 0; transform: translateY(5px); }
-  }
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Merhaba%2C+ben+Esra!;Unity+%7C+C%23+%7C+Python+%7C+Yapay+Zeka;Yazılım+Mühendisliği+Öğrencisi" alt="Typing SVG" />
+</p>
 ---
 
 ## 👋 Merhaba, ben Esra!
