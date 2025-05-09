@@ -1,7 +1,27 @@
-<p align="center">
-  <h2 align="center">Unity  |  C#  |  Python  |  Yapay Zeka</h2>
-</p>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Animasyonlu Başlık</title>
+  <style>
+    .animated-title {
+      font-size: 32px;
+      font-weight: bold;
+      text-align: center;
+      animation: fadeInOut 4s infinite;
+    }
 
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateY(-10px); }
+      50% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(10px); }
+    }
+  </style>
+</head>
+<body>
+  <h2 class="animated-title">Unity | C# | Python | Yapay Zeka</h2>
+</body>
+</html>
 ---
 
 ## 👋 Merhaba, ben Esra!
